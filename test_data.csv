@@ -1,0 +1,162 @@
+card_name,type,cmc,prices,deck
+Abrade,Spells,2,0.16,old
+Arasta of the Endless Web,Creatures,4,0.21,old
+Arcane Signet,Artifacts,2,0.85,old
+Archon of Emeria,Creatures,3,2.64,old
+Artifact Mutation,Spells,2,0.24,both
+Ash Barrens,Lands,0,0.19,old
+Assemble the Legion,Enchantments,5,0.25,old
+Aura Mutation,Spells,2,0.61,both
+Aven Mindcensor,Creatures,3,0.19,old
+Awakening Zone,Enchantments,3,1.25,old
+Battlefield Forge,Lands,0,0.8,old
+Beast Within,Spells,3,0.68,both
+Beastmaster Ascension,Enchantments,3,4.02,both
+"Bess, Soul Nourisher",Creatures,3,0.19,old
+Bloodthirsty Blade,Artifacts,2,0.09,old
+Boros Charm,Spells,2,1.92,both
+Boss's Chauffeur,Creatures,5,0.19,old
+Bountiful Promenade,Lands,0,3.15,both
+Cabaretti Charm,Spells,3,0.07,old
+Cabaretti Confluence,Spells,6,0.18,old
+Call the Coppercoats,Spells,3,1.23,old
+Camaraderie,Spells,6,0.34,old
+Castle Ardenvale,Lands,0,1.22,both
+Castle Embereth,Lands,0,0.22,old
+Champion of Lambholt,Creatures,3,1.05,both
+Collector Ouphe,Creatures,2,5.29,both
+Command Tower,Lands,0,NA,both
+Commander's Sphere,Artifacts,3,0.16,old
+Crash the Party,Spells,6,0.19,old
+Cultivate,Spells,3,0.45,both
+Drumbellower,Creatures,3,3.45,both
+Duelist's Heritage,Enchantments,3,1.18,old
+"Emmara, Soul of the Accord",Creatures,2,0.28,both
+Exotic Orchard,Lands,0,0.27,old
+False Floor,Artifacts,4,0.15,old
+Felidar Retreat,Enchantments,4,1.75,old
+Fell the Mighty,Spells,5,0.39,old
+Fellwar Stone,Artifacts,2,0.83,old
+Forest,Lands,0,0.08,both
+"Gahiji, Honored One",Creatures,5,0.31,old
+Gavony Township,Lands,0,0.95,both
+Grand Crescendo,Spells,2,7.02,both
+Harmonize,Spells,4,0.38,old
+Harvest Season,Spells,3,1.41,old
+Idol of Oblivion,Artifacts,2,1.5,old
+Indulge/Excess,Spells,3,0.98,old
+Intangible Virtue,Enchantments,2,0.25,both
+"Jetmir, Nexus of Revels",Creatures,4,3.73,both
+Jungle Shrine,Lands,0,0.31,old
+Karplusan Forest,Lands,0,2,old
+"Kazuul, Tyrant of the Cliffs",Creatures,5,0.23,old
+"Kitt Kanto, Mayhem Diva",Creatures,4,0.27,both
+Leafkin Druid,Creatures,2,0.1,old
+March of the Multitudes,Spells,3,0.64,both
+Martial Coup,Spells,2,0.26,both
+Mossfire Valley,Lands,0,0.16,old
+Mountain,Lands,0,0.04,both
+Myriad Landscape,Lands,0,0.2,old
+Naya Panorama,Lands,0,0.25,old
+Outpost Siege,Enchantments,4,0.2,old
+Path of Ancestry,Lands,0,0.16,old
+Path to Exile,Spells,1,1.87,old
+Plains,Lands,0,0.06,both
+Rugged Prairie,Lands,0,2.63,old
+Rumor Gatherer,Creatures,3,0.2,old
+Sakura-Tribe Elder,Creatures,2,1.03,old
+Scavenger Grounds,Lands,0,1.68,old
+Scepter of Celebration,Artifacts,3,0.44,old
+Scute Swarm,Creatures,3,3.84,old
+Shamanic Revelation,Spells,5,0.38,old
+Signal the Clans,Spells,2,0.41,old
+Skullwinder,Creatures,3,0.09,old
+"Sokenzan, Crucible of Defiance",Lands,0,2.76,both
+Sol Ring,Artifacts,1,NA,old
+Spectator Seating,Lands,0,6.99,both
+Spire Garden,Lands,0,4.01,both
+Stonybrook Schoolmaster,Creatures,3,0.21,old
+Sungrass Prairie,Lands,0,0.26,old
+Thriving Bluff,Lands,0,0.12,old
+Thriving Grove,Lands,0,0.13,old
+Thriving Heath,Lands,0,0.1,old
+Thunderfoot Baloth,Creatures,6,0.4,old
+Thundering Raiju,Creatures,4,0.25,old
+Tibalt's Trickery,Spells,2,2.59,both
+Topiary Stomper,Creatures,3,0.89,old
+"Toski, Bearer of Secrets",Creatures,4,8.59,both
+Utopia Sprawl,Enchantments,1,6.2,old
+Welcoming Vampire,Creatures,3,4,both
+Windbrisk Heights,Lands,0,0.15,old
+"Yasharn, Implacable Earth",Creatures,4,0.47,old
+"Adeline, Resplendent Cathar",Creatures,3,8.57,new
+Anointed Procession,Enchantments,4,30.56,new
+Arid Mesa,Lands,0,14.97,new
+Aura Shards,Enchantments,3,10.38,new
+Avacyn's Pilgrim,Creatures,1,0.26,new
+Avenger of Zendikar,Creatures,7,3.44,new
+Bala Ged Recovery,Lands,3,4.08,new
+"Bennie Bracks, Zoologist",Creatures,4,11.13,new
+Birds of Paradise,Creatures,1,NA,new
+Bloom Tender,Creatures,2,9.67,new
+"Boseiju, Who Endures",Lands,0,27.77,new
+"Cadira, Caller of the Small",Creatures,3,0.09,new
+Clifftop Retreat,Lands,0,5.25,new
+Craterhoof Behemoth,Creatures,8,30.77,new
+Cryptolith Rite,Enchantments,2,11.05,new
+Divine Visitation,Enchantments,5,6.53,new
+Dockside Extortionist,Creatures,2,51.27,new
+Dragonlair Spider,Creatures,6,3.42,new
+"Eiganjo, Seat of the Empire",Lands,0,4.42,new
+"Elesh Norn, Grand Cenobite",Creatures,7,20.21,new
+"Elspeth, Sun's Champion",Planeswalkers,6,NA,new
+Esper Sentinel,Creatures,1,21.16,new
+Farewell,Spells,6,7.24,new
+Farseek,Spells,2,1.17,new
+Field of the Dead,Lands,0,19.47,new
+Flawless Maneuver,Spells,3,19.65,new
+Forbidden Orchard,Lands,0,4.29,new
+Generous Gift,Spells,3,1.39,new
+Ghost Quarter,Lands,0,1.22,new
+Green Sun's Zenith,Spells,1,9.97,new
+Halo Fountain,Artifacts,3,3.7,new
+Heroic Intervention,Spells,2,16.71,new
+Hornet Queen,Creatures,7,0.23,new
+Impact Tremors,Enchantments,2,4,new
+Intrepid Adversary,Creatures,2,1.33,new
+Jetmir's Garden,Lands,0,7.26,new
+"Jinnie Fay, Jetmir's Second",Creatures,3,0.36,new
+Kessig Wolf Run,Lands,0,0.42,new
+Kodama's Reach,Spells,3,1.06,new
+"Krenko, Tin Street Kingpin",Creatures,3,0.41,new
+Nature's Lore,Spells,2,1.73,new
+Ohran Frostfang,Creatures,5,13.96,new
+Parallel Lives,Enchantments,4,53.15,new
+Pest Infestation,Spells,1,5.74,new
+Prismatic Vista,Lands,0,24.45,new
+"Purphoros, God of the Forge",Creatures,4,25.38,new
+Rhys the Redeemed,Creatures,1,4.81,new
+Rith's Charm,Spells,3,0.31,new
+Rootbound Crag,Lands,0,4.2,new
+Sacred Foundry,Lands,0,16.86,new
+Second Harvest,Spells,4,5.21,new
+Secure the Wastes,Spells,1,5.16,new
+Seedborn Muse,Creatures,5,12.18,new
+Skullclamp,Artifacts,1,NA,new
+Skyshroud Claim,Spells,4,4.39,new
+Smuggler's Share,Enchantments,3,13.53,new
+Snow-Covered Forest,Lands,0,0.75,new
+Snow-Covered Mountain,Lands,0,0.37,new
+Snow-Covered Plains,Lands,0,0.2,new
+Stomping Ground,Lands,0,10.75,new
+Sunpetal Grove,Lands,0,3.53,new
+Swords to Plowshares,Spells,1,NA,new
+Teferi's Protection,Spells,3,19.62,new
+Temple Garden,Lands,0,12.34,new
+Tendershoot Dryad,Creatures,5,11.25,new
+Three Visits,Spells,2,5.91,new
+Windswept Heath,Lands,0,23.06,new
+Wooded Foothills,Lands,0,36.45,new
+"Yavimaya, Cradle of Growth",Lands,0,7.37,new
+Llanowar Elves,Creatures,1,1.11,new
+Mother of Runes,Creatures,1,1.75,new
